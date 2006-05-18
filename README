@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1549
+
+Dark eye resting coloscheme designed for use in urxvt or urxvt/screen terminals.
+It makes heavy use of the 88 colors available in this environment and it will not work in any other environment e.g. xterm or gui.
+
+You can set a transparent background by adding
+
+'let g:bluez_transbg=1' 
+
+to your vimrc.
